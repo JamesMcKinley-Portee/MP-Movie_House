@@ -1,4 +1,4 @@
-# MP-Movie_House
+# MP Movie House
 <h2>Welcome to MP Movie House</h2>
 
 <div class="sidenav">
@@ -16,10 +16,13 @@
 </div>
 
 
-<br \>
+
 <h3>Welcome to MP Movie House</h3>
+
 <br/>Keep Inventory of all your movies with this simple application.
+
 <br/>Just enter the Title, Release Years, Director, Actors, and Genre.
+
 <br/>Search and Rate your movies too!
 Enjoy!
 <br/>

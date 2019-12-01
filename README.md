@@ -15,8 +15,10 @@
 </div>
 
 
-<h3>MP Movie House - Main Menu</h3>
-<h2>Welcome to MP Movie House</h2>
+<h2>MP Movie House - Main Menu</h2>
+
+
+<h3>Welcome to MP Movie House</h3>
 
 <br/>Keep Inventory of all your movies with this simple application.
 

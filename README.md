@@ -2,6 +2,7 @@
 <h2>Welcome to MP Movie House</h2>
 
 <div class="sidenav">
+ 
 <a href='$link_address1'>Main Menu</a>
 
 <a href='$link_address2'>Search for Movies</a>
@@ -16,12 +17,9 @@
 
 
 <br \>
-<textarea name="Menu Welcome" rows=10 cols=80>
 <h3>Welcome to MP Movie House</h3>
 <br/>Keep Inventory of all your movies with this simple application.
 <br/>Just enter the Title, Release Years, Director, Actors, and Genre.
 <br/>Search and Rate your movies too!
 Enjoy!
-<br/>
-</textarea>
 <br/>

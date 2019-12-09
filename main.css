@@ -1,13 +1,66 @@
-/*!
- * Google Fonts by Google - https://fonts.google.com/specimen/Roboto
- * License - http://www.apache.org/licenses/LICENSE-2.0 (Design: Christian Robertson)
+/**
+ * ***************************************************************************
+ * Title: James McKinley-Portee
+ * Use: ISAT 405-940
+ * Author: James McKinley-Portee
+ * School: Southern Illinois University Carbondale
+ * Term: Fall 2019
+ * Developed: Fall 2019
+ * Tested: Fall 2019
+ * ****************************************************************************
+ *
+ *
+ * Abobe Fonts https://fonts.adobe.com/fonts/ocr-a
+ * 
  */
-@font-face { //font choice
-  font-family: 'Roboto';
-  font-style: Regular Italic;
-  font-weight: Regular Italic;
-  src: url("https://fonts.google.com/specimen/Roboto");
+ <!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-family: OCR A;
+}
+
+.sidenav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.sidenav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 22px 25px;
+  text-decoration: none;
+  font-size: 19px;
+}
+
+.sidenav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.sidenav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.wrapper {
+	width: 1000px
+	background-color: #4CAF50;
+	margin: 0 auto;
+}
+</style>
+
+ 
+@font-face {  //font choice
+  font-family: 'OCR A';
+  font-style: Extended;
+  font-weight: Regular;
+  src: url("https://fonts.adobe.com/fonts/ocr-a");
   }
 
 .fab {
-  font-family: 'Roboto'; }
+  font-family: 'OCR A'; }
